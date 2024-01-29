@@ -1,2 +1,2 @@
-# Order-Confirmation-Mail-WG-
+# Order-Confirmation-Mail-WG
 new repo for mail confirmation
